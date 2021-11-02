@@ -5,4 +5,4 @@
 - 📫 Me pueden ubicar en: https://www.linkedin.com/in/adolfoleonvasquez/ 
 - Despues de +800 horas de estudio en el Bootcamp de Henry, termine mi carrera de Desarrollo Web Full stack.
 - Trabajo en las tecnologías: React, Redux, Sequelize, Sql, Html5, Css3, Node-js
-- 
+- Proyecto final https://vimeo.com/641370291
