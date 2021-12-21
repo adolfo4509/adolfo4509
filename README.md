@@ -8,3 +8,4 @@
 - Trabajo en las tecnologías: React, Redux, Sequelize, Sql, Html5, Css3, Node-js
 - Proyecto final https://vimeo.com/641370291
 - Realice un proyecto desarrollo de un Api de videogames consumiendo API https://rawg.io/apidocs
+- Pagina web estatica diseñada y desarrollada con HTML5, CSS3, JAVASCRIPT httpS://alexanderfotografiayvideo.com.co/
