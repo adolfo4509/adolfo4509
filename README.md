@@ -1,11 +1,30 @@
-- 👋 Hola, soy @adolfo4509
-- 👀 Soy desarrollador web Full stack.
-- Skills React, HTML5, Node-Js, Sql Postgres, Css3, ORM Sequelize, Express, Redux, Metodologia Agil Scrum.
-- 🌱 Graduado del Bootcamp HENRY.
-- 💞️ Participe en el DesarrollO de un eccomerce, para una tienda de artículos deportivos.
-- 📫 Me pueden ubicar en: https://www.linkedin.com/in/adolfoleonvasquez/ 
-- Despues de +800 horas de estudio en el Bootcamp de Henry, termine mi carrera de Desarrollo Web Full stack.
-- Trabajo en las tecnologías: React, Redux, Sequelize, Sql, Html5, Css3, Node-js
-- Proyecto final https://vimeo.com/641370291
-- Realice un proyecto desarrollo de un Api de videogames consumiendo API https://rawg.io/apidocs
-- Pagina web estatica diseñada y desarrollada con HTML5, CSS3, JAVASCRIPT httpS://alexanderfotografiayvideo.com.co/
+# 👋 Hola, soy Adolfo Vásquez
+
+### 🚀 Front-End Developer | React • Next.js • TypeScript
+
+Desarrollador Front-End con más de 4 años de experiencia construyendo arquitecturas escalables, componentes reutilizables y aplicaciones Mobile First en banca y consultoría. Trabajo con React, Next.js, TypeScript, Node.js y CI/CD.
+
+### 🛠️ Tecnologías principales
+- **Front-End:** React, Next.js, TypeScript, Redux Toolkit, Tailwind, Styled Components  
+- **Back-End:** Node.js, Express, PostgreSQL, MongoDB  
+- **DevOps:** Docker, Jenkins, SonarQube, CI/CD, Vercel  
+- **Testing:** Jest, React Testing Library  
+
+### 📌 Proyectos Destacados
+- **Alexander Fotografía & Video**  
+  App web para gestión de contenido multimedia.  
+  - Login, roles, subida de imágenes  
+  - +87 líneas añadidas y -89 modificadas en últimos ajustes   
+  - Repo: `adolfo4509/alexander-fotografia-video`
+
+- **Pasarela Distribuida**  
+  Sistema modular para pagos y distribución de órdenes.  
+  - Repo: `adolfo4509/pasarela-distribuida`
+
+- **Red Bicicletas**  
+  App para gestión de bicicletas y rutas.  
+  - Repo: `adolfo4509/red_bicicletas`
+
+### 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/adolfo-leon-v  
+- Portafolio: https://www.alexanderfotografiayvideo.com.co 
