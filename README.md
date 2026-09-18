@@ -26,5 +26,5 @@ Desarrollador Front-End con más de 4 años de experiencia construyendo arquitec
   - Repo: `adolfo4509/red_bicicletas`
 
 ### 📫 Contacto
-- LinkedIn: https://www.linkedin.com/in/adolfo-leon-v  
+- LinkedIn: https://www.linkedin.com/in/adolfovasquezdev 
 - Portafolio: https://www.alexanderfotografiayvideo.com.co 
